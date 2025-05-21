@@ -1,0 +1,16 @@
+package DAY9;
+import java.util.*;
+
+public class Treeset_ {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Set<Integer>s1=new TreeSet<Integer>();
+		s1.add(12);
+		s1.add(10);
+		s1.add(13);
+		System.out.println(s1);
+
+	}
+
+}
